@@ -1,7 +1,7 @@
 databases:
-  - name: qrcodes
-    databaseName: qrcode
-    user: qrcode
+  - name: qrcode_db
+    databaseName: qrcode_db
+    user: qrcode_db
 
 services:
   - type: web
