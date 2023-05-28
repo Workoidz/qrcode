@@ -2,6 +2,7 @@ databases:
   - name: qrcode
     databaseName: qrcode
     user: qrcode
+    plan: free
 
 services:
   - type: web
